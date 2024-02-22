@@ -9,3 +9,7 @@ console.log(d.greeting); // 'Hello'
 
 console.log(1<2<3); // true
 console.log(3<2<1); // true
+
+
+let result = true + true; //
+console.log(result); // 2
